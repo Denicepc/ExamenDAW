@@ -8,3 +8,4 @@ o	git push
 	Ariana Denice Prieto Canepa
 
 Línea añadida desde rama main por Ariana Denice Prieto Canepa
+Línea modificada desde rama conflicto por Ariana Denice Prieto Canepaa segundo intento conflicto
